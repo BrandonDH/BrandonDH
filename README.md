@@ -1,16 +1,12 @@
-### Hi there 👋
+## I'm a Software Engineer
+I focus on the Front End, and have Full Stack Python and .NET exposure. 
+Right now I'm developing new building construction technology at one of the largest contractors in North America.
 
-<!--
-**BrandonDH/BrandonDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Most recent tech stacks:
+- JavaScript
+- Hasura
+- GraphQL
+- Angular
+- Bryntum.js
+- Python 3
+- ASP .NET Core
