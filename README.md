@@ -1,6 +1,6 @@
 # Brandon Herford is a New England-based frontend developer 
 ### With 10 years of experience in the Web Development/Design industry. 
-[In 2023 I enrolled in Launch School](https://launchschool.com/mastery), a "mastery based learning" software engineering program.
+[In 2023 he enrolled in Launch School](https://launchschool.com/mastery), a "mastery based learning" software engineering program.
 
 Visit Brandon elsewhere on the Web:
 - [Medium](https://medium.com/@BrandonHerford)
