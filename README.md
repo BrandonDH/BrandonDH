@@ -1,2 +1,9 @@
-"Overall, based on the information available on his Github profile, it seems that BrandonDH has a certain level of experience and skills in software development. However, it is important to note that a Github profile alone cannot provide a comprehensive assessment of a person's skills or experience in the field."
--ChatGPT, 2023
+# Brandon Herford is a New England-based frontend developer 
+### With 10 years of experience in the Web Development/Design industry. 
+[In 2023 I enrolled in Launch School](https://launchschool.com/mastery), a "mastery based learning" software engineering program.
+
+Visit Brandon elsewhere on the Web:
+- [Medium](https://medium.com/@BrandonHerford)
+- [BrandonHerford.com](https://brandonherford.com/)
+- [Dribbble](https://dribbble.com/following)
+- [LinkedIn](https://www.linkedin.com/in/brandon-herford-5b01b92b/)
